@@ -1,0 +1,2 @@
+# pythonda-dasturlash-asoslari
+ 
