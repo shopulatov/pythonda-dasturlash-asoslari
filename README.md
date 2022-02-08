@@ -1,2 +1,2 @@
 # pythonda-dasturlash-asoslari
- Bu mening dasturlash sohasidagi ilk olgan kursimdagi bajargan topshiriqlarim. Kurs Anvar Narzulloh tomonidan olib borilgan va mohirdev.uz sahifasidan topsa bo'ladi
+Answers to problems on my very first programming course "Pythonda Dasturlash Asoslari" which is held by Anvar Narzulloh at mohirdev.uz platform.
